@@ -1,0 +1,13 @@
+{
+  "version": 2,
+  "dgSpecHash": "Km2pTgR1OAvNlm40D+ehRJnPSlHhsNnTNMzLwUFbPbXKZGAaoQlyDK5z6cjWw5znbI6tW1uAVIWombBbhRHRBw==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\bruno\\Downloads\\smartfilms-main\\smartfilms-main\\src\\services\\bruno.CatalogFilms.Domain\\bruno.CatalogFilms.Domain.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\bruno\\.nuget\\packages\\fluentvalidation\\11.0.0\\fluentvalidation.11.0.0.nupkg.sha512",
+    "C:\\Users\\bruno\\.nuget\\packages\\mediatr\\12.1.1\\mediatr.12.1.1.nupkg.sha512",
+    "C:\\Users\\bruno\\.nuget\\packages\\mediatr.contracts\\2.0.1\\mediatr.contracts.2.0.1.nupkg.sha512",
+    "C:\\Users\\bruno\\.nuget\\packages\\microsoft.extensions.dependencyinjection.abstractions\\6.0.0\\microsoft.extensions.dependencyinjection.abstractions.6.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}

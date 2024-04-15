@@ -1,0 +1,15 @@
+C:\Users\bruno\Downloads\smartfilms-main\smartfilms-main\src\building blocks\bruno.CatalogFilms.API.Core\bin\Debug\netcoreapp3.1\bruno.CatalogFilms.API.Core.deps.json
+C:\Users\bruno\Downloads\smartfilms-main\smartfilms-main\src\building blocks\bruno.CatalogFilms.API.Core\bin\Debug\netcoreapp3.1\bruno.CatalogFilms.API.Core.dll
+C:\Users\bruno\Downloads\smartfilms-main\smartfilms-main\src\building blocks\bruno.CatalogFilms.API.Core\bin\Debug\netcoreapp3.1\bruno.CatalogFilms.API.Core.pdb
+C:\Users\bruno\Downloads\smartfilms-main\smartfilms-main\src\building blocks\bruno.CatalogFilms.API.Core\bin\Debug\netcoreapp3.1\bruno.CatalogFilms.Core.dll
+C:\Users\bruno\Downloads\smartfilms-main\smartfilms-main\src\building blocks\bruno.CatalogFilms.API.Core\bin\Debug\netcoreapp3.1\bruno.CatalogFilms.Model.View.dll
+C:\Users\bruno\Downloads\smartfilms-main\smartfilms-main\src\building blocks\bruno.CatalogFilms.API.Core\bin\Debug\netcoreapp3.1\bruno.CatalogFilms.Core.pdb
+C:\Users\bruno\Downloads\smartfilms-main\smartfilms-main\src\building blocks\bruno.CatalogFilms.API.Core\bin\Debug\netcoreapp3.1\bruno.CatalogFilms.Model.View.pdb
+C:\Users\bruno\Downloads\smartfilms-main\smartfilms-main\src\building blocks\bruno.CatalogFilms.API.Core\obj\Debug\netcoreapp3.1\bruno.CatalogFilms.API.Core.csproj.AssemblyReference.cache
+C:\Users\bruno\Downloads\smartfilms-main\smartfilms-main\src\building blocks\bruno.CatalogFilms.API.Core\obj\Debug\netcoreapp3.1\bruno.CatalogFilms.API.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\Downloads\smartfilms-main\smartfilms-main\src\building blocks\bruno.CatalogFilms.API.Core\obj\Debug\netcoreapp3.1\bruno.CatalogFilms.API.Core.AssemblyInfoInputs.cache
+C:\Users\bruno\Downloads\smartfilms-main\smartfilms-main\src\building blocks\bruno.CatalogFilms.API.Core\obj\Debug\netcoreapp3.1\bruno.CatalogFilms.API.Core.AssemblyInfo.cs
+C:\Users\bruno\Downloads\smartfilms-main\smartfilms-main\src\building blocks\bruno.CatalogFilms.API.Core\obj\Debug\netcoreapp3.1\bruno.CatalogFilms.API.Core.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Downloads\smartfilms-main\smartfilms-main\src\building blocks\bruno.CatalogFilms.API.Core\obj\Debug\netcoreapp3.1\bruno.CatalogFilms.API.Core.csproj.CopyComplete
+C:\Users\bruno\Downloads\smartfilms-main\smartfilms-main\src\building blocks\bruno.CatalogFilms.API.Core\obj\Debug\netcoreapp3.1\bruno.CatalogFilms.API.Core.dll
+C:\Users\bruno\Downloads\smartfilms-main\smartfilms-main\src\building blocks\bruno.CatalogFilms.API.Core\obj\Debug\netcoreapp3.1\bruno.CatalogFilms.API.Core.pdb

@@ -1,0 +1,15 @@
+C:\Users\bruno\Downloads\smartfilms-main\smartfilms-main\src\services\bruno.CatalogFilms.Domain\bin\Debug\net7.0\bruno.CatalogFilms.Domain.deps.json
+C:\Users\bruno\Downloads\smartfilms-main\smartfilms-main\src\services\bruno.CatalogFilms.Domain\bin\Debug\net7.0\bruno.CatalogFilms.Domain.dll
+C:\Users\bruno\Downloads\smartfilms-main\smartfilms-main\src\services\bruno.CatalogFilms.Domain\bin\Debug\net7.0\bruno.CatalogFilms.Domain.pdb
+C:\Users\bruno\Downloads\smartfilms-main\smartfilms-main\src\services\bruno.CatalogFilms.Domain\bin\Debug\net7.0\bruno.CatalogFilms.Core.dll
+C:\Users\bruno\Downloads\smartfilms-main\smartfilms-main\src\services\bruno.CatalogFilms.Domain\bin\Debug\net7.0\bruno.CatalogFilms.Core.pdb
+C:\Users\bruno\Downloads\smartfilms-main\smartfilms-main\src\services\bruno.CatalogFilms.Domain\obj\Debug\net7.0\bruno.CatalogFilms.Domain.csproj.AssemblyReference.cache
+C:\Users\bruno\Downloads\smartfilms-main\smartfilms-main\src\services\bruno.CatalogFilms.Domain\obj\Debug\net7.0\bruno.CatalogFilms.Domain.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\Downloads\smartfilms-main\smartfilms-main\src\services\bruno.CatalogFilms.Domain\obj\Debug\net7.0\bruno.CatalogFilms.Domain.AssemblyInfoInputs.cache
+C:\Users\bruno\Downloads\smartfilms-main\smartfilms-main\src\services\bruno.CatalogFilms.Domain\obj\Debug\net7.0\bruno.CatalogFilms.Domain.AssemblyInfo.cs
+C:\Users\bruno\Downloads\smartfilms-main\smartfilms-main\src\services\bruno.CatalogFilms.Domain\obj\Debug\net7.0\bruno.CatalogFilms.Domain.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Downloads\smartfilms-main\smartfilms-main\src\services\bruno.CatalogFilms.Domain\obj\Debug\net7.0\bruno.CatalogFilms.Domain.csproj.CopyComplete
+C:\Users\bruno\Downloads\smartfilms-main\smartfilms-main\src\services\bruno.CatalogFilms.Domain\obj\Debug\net7.0\bruno.CatalogFilms.Domain.dll
+C:\Users\bruno\Downloads\smartfilms-main\smartfilms-main\src\services\bruno.CatalogFilms.Domain\obj\Debug\net7.0\refint\bruno.CatalogFilms.Domain.dll
+C:\Users\bruno\Downloads\smartfilms-main\smartfilms-main\src\services\bruno.CatalogFilms.Domain\obj\Debug\net7.0\bruno.CatalogFilms.Domain.pdb
+C:\Users\bruno\Downloads\smartfilms-main\smartfilms-main\src\services\bruno.CatalogFilms.Domain\obj\Debug\net7.0\ref\bruno.CatalogFilms.Domain.dll

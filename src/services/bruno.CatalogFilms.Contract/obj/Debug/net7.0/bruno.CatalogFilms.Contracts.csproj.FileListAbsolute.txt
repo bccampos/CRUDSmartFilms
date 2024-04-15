@@ -1,0 +1,17 @@
+C:\Users\bruno\Downloads\smartfilms-main\smartfilms-main\src\services\bruno.CatalogFilms.Contract\bin\Debug\net7.0\bruno.CatalogFilms.Contracts.deps.json
+C:\Users\bruno\Downloads\smartfilms-main\smartfilms-main\src\services\bruno.CatalogFilms.Contract\bin\Debug\net7.0\bruno.CatalogFilms.Contracts.dll
+C:\Users\bruno\Downloads\smartfilms-main\smartfilms-main\src\services\bruno.CatalogFilms.Contract\bin\Debug\net7.0\bruno.CatalogFilms.Contracts.pdb
+C:\Users\bruno\Downloads\smartfilms-main\smartfilms-main\src\services\bruno.CatalogFilms.Contract\bin\Debug\net7.0\bruno.CatalogFilms.Core.dll
+C:\Users\bruno\Downloads\smartfilms-main\smartfilms-main\src\services\bruno.CatalogFilms.Contract\bin\Debug\net7.0\bruno.CatalogFilms.Domain.dll
+C:\Users\bruno\Downloads\smartfilms-main\smartfilms-main\src\services\bruno.CatalogFilms.Contract\bin\Debug\net7.0\bruno.CatalogFilms.Domain.pdb
+C:\Users\bruno\Downloads\smartfilms-main\smartfilms-main\src\services\bruno.CatalogFilms.Contract\bin\Debug\net7.0\bruno.CatalogFilms.Core.pdb
+C:\Users\bruno\Downloads\smartfilms-main\smartfilms-main\src\services\bruno.CatalogFilms.Contract\obj\Debug\net7.0\bruno.CatalogFilms.Contracts.csproj.AssemblyReference.cache
+C:\Users\bruno\Downloads\smartfilms-main\smartfilms-main\src\services\bruno.CatalogFilms.Contract\obj\Debug\net7.0\bruno.CatalogFilms.Contracts.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\Downloads\smartfilms-main\smartfilms-main\src\services\bruno.CatalogFilms.Contract\obj\Debug\net7.0\bruno.CatalogFilms.Contracts.AssemblyInfoInputs.cache
+C:\Users\bruno\Downloads\smartfilms-main\smartfilms-main\src\services\bruno.CatalogFilms.Contract\obj\Debug\net7.0\bruno.CatalogFilms.Contracts.AssemblyInfo.cs
+C:\Users\bruno\Downloads\smartfilms-main\smartfilms-main\src\services\bruno.CatalogFilms.Contract\obj\Debug\net7.0\bruno.CatalogFilms.Contracts.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Downloads\smartfilms-main\smartfilms-main\src\services\bruno.CatalogFilms.Contract\obj\Debug\net7.0\bruno.CatalogFilms.Contracts.csproj.CopyComplete
+C:\Users\bruno\Downloads\smartfilms-main\smartfilms-main\src\services\bruno.CatalogFilms.Contract\obj\Debug\net7.0\bruno.CatalogFilms.Contracts.dll
+C:\Users\bruno\Downloads\smartfilms-main\smartfilms-main\src\services\bruno.CatalogFilms.Contract\obj\Debug\net7.0\refint\bruno.CatalogFilms.Contracts.dll
+C:\Users\bruno\Downloads\smartfilms-main\smartfilms-main\src\services\bruno.CatalogFilms.Contract\obj\Debug\net7.0\bruno.CatalogFilms.Contracts.pdb
+C:\Users\bruno\Downloads\smartfilms-main\smartfilms-main\src\services\bruno.CatalogFilms.Contract\obj\Debug\net7.0\ref\bruno.CatalogFilms.Contracts.dll

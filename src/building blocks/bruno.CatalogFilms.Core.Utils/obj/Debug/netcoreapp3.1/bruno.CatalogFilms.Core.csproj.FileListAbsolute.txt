@@ -1,0 +1,10 @@
+C:\Users\bruno\Downloads\smartfilms-main\smartfilms-main\src\building blocks\bruno.CatalogFilms.Core.Utils\bin\Debug\netcoreapp3.1\bruno.CatalogFilms.Core.deps.json
+C:\Users\bruno\Downloads\smartfilms-main\smartfilms-main\src\building blocks\bruno.CatalogFilms.Core.Utils\bin\Debug\netcoreapp3.1\bruno.CatalogFilms.Core.dll
+C:\Users\bruno\Downloads\smartfilms-main\smartfilms-main\src\building blocks\bruno.CatalogFilms.Core.Utils\bin\Debug\netcoreapp3.1\bruno.CatalogFilms.Core.pdb
+C:\Users\bruno\Downloads\smartfilms-main\smartfilms-main\src\building blocks\bruno.CatalogFilms.Core.Utils\obj\Debug\netcoreapp3.1\bruno.CatalogFilms.Core.csproj.AssemblyReference.cache
+C:\Users\bruno\Downloads\smartfilms-main\smartfilms-main\src\building blocks\bruno.CatalogFilms.Core.Utils\obj\Debug\netcoreapp3.1\bruno.CatalogFilms.Core.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\bruno\Downloads\smartfilms-main\smartfilms-main\src\building blocks\bruno.CatalogFilms.Core.Utils\obj\Debug\netcoreapp3.1\bruno.CatalogFilms.Core.AssemblyInfoInputs.cache
+C:\Users\bruno\Downloads\smartfilms-main\smartfilms-main\src\building blocks\bruno.CatalogFilms.Core.Utils\obj\Debug\netcoreapp3.1\bruno.CatalogFilms.Core.AssemblyInfo.cs
+C:\Users\bruno\Downloads\smartfilms-main\smartfilms-main\src\building blocks\bruno.CatalogFilms.Core.Utils\obj\Debug\netcoreapp3.1\bruno.CatalogFilms.Core.csproj.CoreCompileInputs.cache
+C:\Users\bruno\Downloads\smartfilms-main\smartfilms-main\src\building blocks\bruno.CatalogFilms.Core.Utils\obj\Debug\netcoreapp3.1\bruno.CatalogFilms.Core.dll
+C:\Users\bruno\Downloads\smartfilms-main\smartfilms-main\src\building blocks\bruno.CatalogFilms.Core.Utils\obj\Debug\netcoreapp3.1\bruno.CatalogFilms.Core.pdb

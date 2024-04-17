@@ -35,16 +35,17 @@ Also you will need to startup 3 projects (MVC / API / Identity.API)
 > **_NOTE:_** The application has a user-friendly approach where the "List All" functionality is open for everyone to access without requiring authentication. However, when users click on a film to view its details, the system prompts them to log in for added security. Once logged in, users gain access to additional features such as adding new films, editing existing ones, removing films, and obtaining comprehensive film details.
 
 ### Before authentication
-![image](https://github.com/bccampos/smartfilms/assets/36283909/6d43bfeb-7a55-4f89-ab51-b9b441029396)
+![image](https://github.com/bccampos/CRUDSmartFilms/assets/36283909/29fcea91-e5da-4930-9c9b-c14b5bca77ab)
 
 ### Login
-![image](https://github.com/bccampos/smartfilms/assets/36283909/cf3d87d5-bcc8-4b06-b23a-a793af1d4545)
+![image](https://github.com/bccampos/CRUDSmartFilms/assets/36283909/bf641f0a-0956-48da-b6f2-998d3ec7a1bf)
 
 ### After authentication
-![image](https://github.com/bccampos/smartfilms/assets/36283909/24503782-aec8-4dcf-ba59-108bdc348221)
+![image](https://github.com/bccampos/CRUDSmartFilms/assets/36283909/78b412ce-0f76-4b63-9aaf-641e6513958d)
 
 ### Films details
-![image](https://github.com/bccampos/smartfilms/assets/36283909/aa8150b5-bf97-4eb6-a8ed-7bf285d36664)
+![image](https://github.com/bccampos/CRUDSmartFilms/assets/36283909/2828ffba-f690-49ae-8d65-c410a51f4126)
+
 
   
 
